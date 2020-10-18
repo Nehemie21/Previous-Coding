@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603032134 source:c:\users\nehemie\desktop\c++ code\perimeter of triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+

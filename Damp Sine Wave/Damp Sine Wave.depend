@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603033596 source:c:\users\nehemie\desktop\c++ code\damp sine wave\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

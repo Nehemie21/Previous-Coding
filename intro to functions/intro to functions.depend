@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603033737 source:c:\users\nehemie\desktop\c++ code\intro to functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
