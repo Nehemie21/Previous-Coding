@@ -1,0 +1,255 @@
+Item,Calories,Fat,Carb,Fiber,Protein,Type
+8-Grain Roll,350,8,67,5,10,bakery
+Apple Bran Muffin,350,9,64,7,6,bakery
+Apple Fritter,420,20,59,0,5,bakery
+Banana Nut Loaf,490,19,75,4,7,bakery
+Birthday Cake Mini Doughnut,130,6,17,0,0,bakery
+Blueberry Oat Bar,370,14,47,5,6,bakery
+Blueberry Scone,460,22,61,2,7,bakery
+Bountiful Blueberry Muffin,370,14,55,0,6,bakery
+Butter Croissant ,310,18,32,0,5,bakery
+Cheese Danish,420,25,39,0,7,bakery
+Chocolate Chunk Cookie,380,17,51,2,4,bakery
+Chocolate Cinnamon Bread,320,12,53,3,6,bakery
+Chocolate Croissant,300,17,34,2,5,bakery
+Chocolate Old-Fashioned Doughnut,420,21,57,2,5,bakery
+Chonga Bagel,310,5,52,3,12,bakery
+Cinnamon Chip Scone,480,18,70,3,7,bakery
+Cranberry Orange Scone,490,18,73,2,8,bakery
+Double Chocolate Brownie,410,24,46,3,6,bakery
+Double Fudge Mini Doughnut,130,7,16,0,0,bakery
+Everything with Cheese Bagel,280,2,56,2,10,bakery
+Ginger Molasses Cookie,360,12,58,0,3,bakery
+Iced Lemon Pound Cake,490,23,67,0,5,bakery
+Mallorca Sweet Bread,420,25,42,0,7,bakery
+Maple Oat Pecan Scone ,440,18,59,3,8,bakery
+Marble Pound Cake,350,13,54,0,6,bakery
+Marshmallow Dream Bar,210,4,43,0,0,bakery
+Morning Bun,350,16,45,2,6,bakery
+Multigrain Bagel,300,3,60,6,15,bakery
+Old-Fashioned Glazed Doughnut,420,21,57,0,4,bakery
+Outrageous Oatmeal Cookie,370,14,56,3,5,bakery
+Petite Vanilla Bean Scone,140,5,21,0,0,bakery
+Plain Bagel,280,1,59,2,9,bakery
+Pumpkin Bread,390,14,61,2,6,bakery
+Pumpkin Scone ,480,17,78,2,6,bakery
+Raspberry Scone,480,25,59,3,8,bakery
+Raspberry Swirl Pound Cake,430,16,69,0,4,bakery
+Reduced-Fat Banana Chocolate Chip Coffee Cake,400,8,80,4,5,bakery
+Reduced-Fat Cinnamon Swirl Coffee Cake,340,9,62,2,4,bakery
+Reduced-Fat Very Berry Coffee Cake ,350,10,59,4,7,bakery
+Starbucks Classic Coffee Cake,440,19,63,0,6,bakery
+Zucchini Walnut Muffin ,490,28,52,2,7,bakery
+Cheese & Fruit,480,28,39,6,18,bistro box
+Chicken & Hummus,270,8,29,6,16,bistro box
+Chicken Lettuce Wraps,360,19,32,4,17,bistro box
+Chipotle Chicken Wraps,380,15,35,6,26,bistro box
+Protein,380,19,37,5,13,bistro box
+Salumi & Cheese,420,26,22,3,25,bistro box
+Sesame Noodles,350,11,50,6,15,bistro box
+Tuna Salad,380,21,25,5,23,bistro box
+Apple Pie,180,7,27,0,2,petite
+Birthday Cake Pop,170,9,22,0,0,petite
+Brown Sugar Walnut Tart,190,12,24,0,2,petite
+Cherry Pie,170,7,24,0,2,petite
+Chocolate Creme Whoopie Pie,190,11,23,0,0,petite
+Chocolate Hazelnut Tart,180,10,23,0,2,petite
+Raspberry Truffle Cake Pop,160,8,24,0,2,petite
+Red Velvet Whoopie Pie,190,11,21,0,0,petite
+Tiramisu Cake Pop,170,9,22,0,0,petite
+Bacon & Gouda Artisan Breakfast Sandwich,350,18,30,0,17,hot breakfast
+Chicken Sausage Breakfast Wrap,300,10,33,5,14,hot breakfast
+Ham & Cheddar Artisan Breakfast Sandwich,350,16,31,0,20,hot breakfast
+Sausage & Cheddar Classic Breakfast Sandwich,500,28,41,0,19,hot breakfast
+Spinach & Feta Breakfast Wrap,290,10,33,6,19,hot breakfast
+Starbucks Perfect Oatmeal,140,2.5,25,4,5,hot breakfast
+Turkey Bacon & White Cheddar Classic Breakfast Sandwich,320,7,43,3,18,hot breakfast
+Veggie & Monterey Jack Artisan Breakfast Sandwich,350,18,30,0,17,hot breakfast
+Deluxe Fruit Blend,80,0,20,2,0,salad
+Chicken Santa Fe Panini,400,11,47,2,26,sandwich
+Egg Salad Sandwich ,460,27,37,5,22,sandwich
+Ham & Swiss Panini,360,9,43,2,28,sandwich
+Roasted Tomato & Mozzarella Panini,390,18,44,3,15,sandwich
+Roasted Vegetable Panini,350,12,48,4,13,sandwich
+Tarragon Chicken Salad Sandwich,420,13,46,6,32,sandwich
+Turkey & Swiss Sandwich,390,13,36,2,34,sandwich
+Greek Yogurt Honey Parfait,300,12,44,0,8,parfait
+Peach Raspberry Yogurt Parfait,300,4,57,3,10,parfait
+Strawberry & Blueberry Yogurt Parfait,300,3.5,60,3,7,parfait
+Cool Lime Starbucks Refreshers Beverage,45,0,11,0,0,beverage
+Ombre Pink Drink,,,,,,beverage
+Pink Drink,,,,,,beverage
+Strawberry Acai Starbucks Refreshers Beverage,80,0,18,1,0,beverage
+Very Berry Hibiscus Starbucks Refreshers Beverage,60,0,14,1,0,beverage
+Violet Drink,,,,,,beverage
+Evolution Fresh Cold-Pressed Apple Berry Juice,,,,,,beverage
+Evolution Fresh Defense Up,,,,,,beverage
+Evolution Fresh Organic Ginger Limeade,110,0,28,0,0,beverage
+Iced Coffee,0,0,0,0,0,beverage
+Iced Coffee with Milk,,,,,,beverage
+Iced Espresso Classics - Vanilla Latte,130,2.5,21,0,5,beverage
+Iced Espresso Classics - Caffe Mocha,140,2.5,23,0,5,beverage
+Iced Espresso Classics - Caramel Macchiato,130,2.5,21,0,5,beverage
+Starbucks Caramel Iced Coffee,,,,,,beverage
+Starbucks Iced Coffee + Milk,,,,,,beverage
+Starbucks Low Calorie Iced Coffee + Milk,,,,,,beverage
+Starbucks Vanilla Iced Coffee,,,,,,beverage
+Shaken Sweet Tea,80,0,19,0,0,beverage
+Tazo Bottled Berry Blossom White,60,0,15,0,0,beverage
+Tazo Bottled Black Mango,150,0,38,0,0,beverage
+Tazo Bottled Black with Lemon,140,0,35,0,0,beverage
+Tazo Bottled Brambleberry,140,0,35,0,0,beverage
+Tazo Bottled Giant Peach,150,0,37,0,0,beverage
+Tazo Bottled Iced Passion,70,0,17,0,0,beverage
+Tazo Bottled Lemon Ginger,120,0,31,0,0,beverage
+Tazo Bottled Organic Black Lemonade,140,0,35,0,0,beverage
+Tazo Bottled Organic Iced Black Tea,60,0,15,0,0,beverage
+Tazo Bottled Organic Iced Green Tea,120,0,31,0,0,beverage
+Tazo Bottled Plum Pomegranate,140,0,35,0,0,beverage
+Tazo Bottled Tazoberry,150,0,38,0,0,beverage
+Tazo Bottled White Cranberry,140,0,35,0,0,beverage
+Teavana Shaken Iced Black Tea,30,0,8,0,0,beverage
+Teavana Shaken Iced Black Tea Lemonade,70,0,17,0,0,beverage
+Teavana Shaken Iced Green Tea,30,0,8,0,0,beverage
+Teavana Shaken Iced Green Tea Lemonade,70,0,17,0,0,beverage
+Teavana Shaken Iced Passion Tango Tea,30,0,8,0,0,beverage
+Teavana Shaken Iced Passion Tango Tea Lemonade,90,0,24,0,0,beverage
+Teavana Shaken Iced Peach Green Tea,60,0,15,0,0,beverage
+Iced Espresso Classics - Vanilla Latte,130,2.5,21,0,5,beverage
+Iced Espresso Classics - Caffe Mocha,140,2.5,23,0,5,beverage
+Iced Espresso Classics - Caramel Macchiato,130,2.5,21,0,5,beverage
+Iced Espresso Classics - Skinny Caramel Macchiato,,,,,,beverage
+Iced Espresso Classics - Skinny Vanilla Latte,,,,,,beverage
+Starbucks Doubleshot Energy Coffee Drink,,,,,,beverage
+Starbucks Doubleshot Energy Mexican Mocha,,,,,,beverage
+Starbucks Doubleshot Energy Mocha Drink,,,,,,beverage
+Starbucks Doubleshot Energy Vanilla Drink,,,,,,beverage
+Starbucks Doubleshot Energy White Chocolate Drink,,,,,,beverage
+Starbucks Doubleshot Energy+Cinnamon Dolce Drink,,,,,,beverage
+Starbucks Doubleshot Espresso Cubano,,,,,,beverage
+Starbucks Doubleshot Espresso Drink,,,,,,beverage
+Starbucks Doubleshot Espresso Salted Caramel Cream,,,,,,beverage
+Starbucks Doubleshot Light Espresso Drink,,,,,,beverage
+Starbucks Doubleshot Protein Caramel,,,,,,beverage
+Starbucks Refreshers Raspberry Pomegranate,90,0,27,0,0,beverage
+Starbucks Refreshers Strawberry Lemonade,90,0,27,0,0,beverage
+Starbucks Bottled Caramel Frappuccino Coffee Drink,,,,,,beverage
+Starbucks Bottled Coffee Frappuccino Coffee Drink,,,,,,beverage
+"Starbucks Bottled Cold Brew Black, Unsweetened",,,,,,beverage
+Starbucks Bottled Cold Brew Cocoa and Honey with Cream,,,,,,beverage
+Starbucks Bottled Dulce de Leche Frappuccino Coffee Drink,,,,,,beverage
+Starbucks Bottled Mocha Frappuccino Coffee Drink,,,,,,beverage
+Starbucks Bottled Mocha Light Frappuccino Coffee Drink,,,,,,beverage
+Starbucks Bottled S'mores Frappuccino Coffee Drink,,,,,,beverage
+Starbucks Bottled Vanilla Frappuccino Coffee Drink,,,,,,beverage
+Starbucks Bottled Vanilla Light Frappuccino Coffee Drink,,,,,,beverage
+Starbucks Caramel Iced Coffee,,,,,,beverage
+Starbucks Doubleshot Protein Dark Chocolate,210,2.5,33,2,20,beverage
+Starbucks Doubleshot Protein Vanilla,200,2.5,34,2,20,beverage
+Starbucks Iced Coffee + Milk,,,,,,beverage
+Starbucks Iced Coffee Caramel,60,0,13,0,1,beverage
+Starbucks Iced Coffee Light Sweetened,50,0,11,0,1,beverage
+Starbucks Iced Coffee Unsweetened,10,0,2,0,1,beverage
+Starbucks Low Calorie Iced Coffee + Milk,,,,,,beverage
+Starbucks Refreshers - Black Cherry Limeade with Coconut Water,,,,,,beverage
+Starbucks Vanilla Iced Coffee,,,,,,beverage
+Tazo Bottled Berry Blossom White,60,0,15,0,0,beverage
+Tazo Bottled Black Mango,150,0,38,0,0,beverage
+Tazo Bottled Black with Lemon,140,0,35,0,0,beverage
+Tazo Bottled Brambleberry,140,0,35,0,0,beverage
+Tazo Bottled Giant Peach,150,0,37,0,0,beverage
+Tazo Bottled Iced Passion,70,0,17,0,0,beverage
+Tazo Bottled Lemon Ginger,120,0,31,0,0,beverage
+Tazo Bottled Organic Black Lemonade,140,0,35,0,0,beverage
+Tazo Bottled Organic Iced Black Tea,60,0,15,0,0,beverage
+Tazo Bottled Organic Iced Green Tea,120,0,31,0,0,beverage
+Tazo Bottled Plum Pomegranate,140,0,35,0,0,beverage
+Tazo Bottled Tazoberry,150,0,38,0,0,beverage
+Tazo Bottled White Cranberry,140,0,35,0,0,beverage
+Teavana Mango Black Tea,,,,,,beverage
+Teavana Passion Tango Herbal Tea,,,,,,beverage
+Teavana Peach Green Tea,,,,,,beverage
+White Chocolate Mocha Bottled Frappuccino,,,,,,beverage
+Blonde Roast,5,0,0,0,1,beverage
+Caffe Misto,,,,,,beverage
+Clover Brewed Coffee,10,0,0,0,1,beverage
+Coffee Traveler,,,,,,beverage
+Decaf Pike Place Roast,5,0,0,0,1,beverage
+Featured Dark Roast,5,0,0,0,1,beverage
+Iced Coffee,5,0,0,0,0,beverage
+Iced Coffee with Milk,,,,,,beverage
+Narino 70 Cold Brew,5,0,0,0,0,beverage
+Narino 70 Cold Brew with Milk,0,0,0,0,0,beverage
+Nitro Cold Brew,5,0,0,0,0,beverage
+Nitro Cold Brew with Sweet Cream,70,5,5,0,1,beverage
+Pike Place Roast,5,0,0,0,1,beverage
+Toasted Coconut Cold Brew,,,,,,beverage
+Vanilla Sweet Cream Cold Brew,110,6,14,0,1,beverage
+Hot Chocolate,320,9,47,4,14,beverage
+Starbucks Signature Hot Chocolate,430,26,45,5,12,beverage
+Caffe Americano,,,,,,beverage
+Caffe Latte,190,7,19,0,13,beverage
+Caffe Mocha,290,8,42,4,13,beverage
+Cappuccino,120,4,12,0,8,beverage
+Caramel Macchiato,250,7,35,0,10,beverage
+Cascara Coconutmilk Latte,,,,,,beverage
+Cinnamon Dolce Latte,260,6,40,0,11,beverage
+Coconutmilk Mocha Macchiato,250,9,32,0,12,beverage
+Espresso,,,,,,beverage
+Espresso Con Panna,,,,,,beverage
+Espresso Macchiato,,,,,,beverage
+Flat White,180,7,18,0,12,beverage
+Iced Caffe Americano,,,,,,beverage
+Iced Caffe Latte,130,4.5,13,0,8,beverage
+Iced Caffe Mocha,230,6,36,4,9,beverage
+Iced Caramel Macchiato,250,7,37,0,10,beverage
+Iced Cascara Coconutmilk Latte,,,,,,beverage
+Iced Cinnamon Dolce Latte,200,4,34,0,7,beverage
+Iced Coconutmilk Mocha Macchiato,260,9,34,0,11,beverage
+Iced Skinny Cinnamon Dolce Latte,,,,,,beverage
+Iced Skinny Mocha,,,,,,beverage
+Iced Vanilla Latte,190,4,30,0,7,beverage
+Iced White Chocolate Mocha,300,8,47,0,10,beverage
+Latte Macchiato,190,7,19,0,12,beverage
+Latte Macchiato,190,7,19,0,12,beverage
+Skinny Mocha,,,,,,beverage
+Starbucks Doubleshot on Ice Beverage,45,1,5,0,3,beverage
+Vanilla Latte,250,6,37,0,12,beverage
+White Chocolate Mocha,360,11,53,0,14,beverage
+Caffe Vanilla Frappuccino Blended Coffee,,,,,,beverage
+Caffe Vanilla Light Frappuccino Blended Coffee,,,,,,beverage
+Caramel Cocoa Cluster Frappuccino Blended Coffee,,,,,,beverage
+Caramel Frappuccino Blended Coffee,,,,,,beverage
+Caramel Light Frappuccino Blended Coffee,,,,,,beverage
+Chai Creme Frappuccino Blended Creme,,,,,,beverage
+Cinnamon Dolce Frappuccino Blended Coffee,350,4.5,64,0,15,beverage
+Cinnamon Dolce Light Frappuccino Blended Coffee,,,,,,beverage
+Cinnamon Roll Frappuccino Blended Coffee,,,,,,beverage
+Coffee Frappuccino Blended Coffee,,,,,,beverage
+Coffee Light Frappuccino Blended Coffee,110,0,24,0,3,beverage
+Cupcake Creme Frappuccino Blended Creme,,,,,,beverage
+Green Tea Creme Frappuccino Blended Creme,,,,,,beverage
+Java Chip Frappuccino Blended Coffee,,,,,,beverage
+Java Chip Light Frappuccino Blended Coffee,,,,,,beverage
+Lemon Bar Creme Frappuccino Blended Creme,,,,,,beverage
+Midnight Mint Mocha Frappuccino Blended Coffee,,,,,,beverage
+Midnight Mint Mocha Frappuccino Blended Cräme,,,,,,beverage
+Mocha Frappuccino Blended Coffee,280,2.5,60,2,4,beverage
+Mocha Light Frappuccino Blended Coffee,140,0.5,28,1,4,beverage
+Oprah Cinnamon Chai Creme Frappuccino Blended Creme,,,,,,beverage
+Red Velvet Cake Creme Frappuccino Blended Creme,,,,,,beverage
+S'mores Frappuccino Blended Coffee,,,,,,beverage
+S'mores Frappuccino Blended Creme,,,,,,beverage
+Strawberries & Creme Frappuccino Blended Creme,,,,,,beverage
+The Pokemon GO Frappuccino Blended Beverage,,,,,,beverage
+Vanilla Bean Creme Frappuccino Blended Creme,,,,,,beverage
+White Chocolate Mocha Frappuccino Blended Coffee,,,,,,beverage
+Cinnamon Dolce Cräme,200,6,28,0,10,beverage
+Organic Chocolate Milk Box,,,,,,beverage
+Steamed Apple Juice,,,,,,beverage
+Vanilla Creme,200,6,28,0,10,beverage
+Chocolate Smoothie,320,5,53,8,20,beverage
+Strawberry Smoothie,300,2,60,7,16,beverage
+Ginger Ale,,,,,,beverage
+Lemon Ale,,,,,,beverage
+Orange Cream Soda,,,,,,beverage
