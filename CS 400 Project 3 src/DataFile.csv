@@ -1,6 +1,0 @@
-Building Name,Building Type (R-Residential | E-Educational | F-Fitness | D-Dining | T-Shopping  | S-Student Life | L-Library | A-Athletics | M-Entertainment | P-Path | K-Parking),Latitude,Longitude,Connected Nodes
-Witte Residence Hall,R,43.071712,-89.3992113,Dept. of Computer Science + Memorial Union Terrace
-Camp Randall Stadium,F,43.0713044,-89.4144677,Trader Joe's + Dept. of Computer Science
-Memorial Union Terrace,L,43.0762566,-89.4020182,Dept. of Computer Science + Witte Residence Hall
-Dept. of Computer Science,E,43.0713714,-89.4078986,Witte Residence Hall + Camp Randall Stadium + Memorial Union Terrace
-Trader Joe's,S,43.0647427,-89.4264225,Camp Randall Stadium
